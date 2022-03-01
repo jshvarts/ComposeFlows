@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ComposeFlows</string>
+    <string name="button_text">Random fruit</string>
+</resources>
